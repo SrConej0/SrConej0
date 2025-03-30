@@ -1,35 +1,46 @@
-# ¡Hola! 👋 Soy **Daniel**  
+# ¡Hola Mundo! 👋 Soy **Daniel Cantú**  
 
-### 🎓 Estudiante de **Desarrollo de Software**  
-### 💻 Apasionado por la programación y la tecnología  
-
----
-
-## 🚀 **Mis Proyectos**  
-Aquí subo mis proyectos personales y de aprendizaje. ¡Explora mis repositorios!  
-
-### 🔧 **Tecnologías que uso**:  
-- **Lenguajes**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-- **Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-- **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
-- **Herramientas**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+### 📱 **Desarrollador Mobile Full-Stack**  
+### 🎓 Estudiante de Desarrollo de Software | Enfoque en soluciones móviles  
 
 ---
 
-## 📂 **Proyectos Destacados**  
+## 🛠️ **Tecnologías Principales**  
+
+### 📱 **Mobile**:  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  
+
+### 🌐 **Frontend/Backend**:  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+
+### 🗃️ **Bases de Datos**:  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+### 🎨 **Diseño**:  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+
+### 🔧 **Herramientas**:  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+
+---
+
+## 📱 **Proyectos Mobile Destacados**  
+
 | Proyecto | Descripción | Tecnologías |  
 |----------|-------------|-------------|  
-| [Nombre Proyecto 1](#) | Breve descripción. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) |  
-| [Nombre Proyecto 2](#) | Breve descripción. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |  
+| [App Móvil 1](#) | App de gestión de tareas con Firebase. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |  
+| [App Android 2](#) | Cliente para API REST en Kotlin. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) |  
+
+*(Reemplaza con tus proyectos reales y enlaces)*  
 
 ---
 
-## 📫 **Contacto**  
-¡Conéctate conmigo!  
-- ✉️ **Email**: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-- 💼 **LinkedIn**: [Daniel en LinkedIn](#)  
-- 🐱 **GitHub**: [@TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)  
+## 📫 **¡Conectemos!**  
+
+- ✉️ **Email**: [danielcantu258@gmail.com](mailto:danielcantu258@gmail.com)  
+- 💼 **LinkedIn**: [Daniel Cantú](https://www.linkedin.com/in/danielcantu56/)  
+- 🐱 **GitHub**: [@SrConej0](https://github.com/SrConej0)  
 
 ---
 
-⭐ **¡Gracias por visitar mi perfil!**  
+🌟 **"Transformo ideas en experiencias móviles fluidas."**  
