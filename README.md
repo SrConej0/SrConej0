@@ -31,7 +31,6 @@
 | [App Móvil 1](#) | App de gestión de tareas con Firebase. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |  
 | [App Android 2](#) | Cliente para API REST en Kotlin. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) |  
 
-*(Reemplaza con tus proyectos reales y enlaces)*  
 
 ---
 
