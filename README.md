@@ -43,3 +43,5 @@
 ---
 
 🌟 **"Transformo ideas en experiencias móviles fluidas."**  
+
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/612ae30c-74a4-4f73-b95b-55543bb2ae91)
