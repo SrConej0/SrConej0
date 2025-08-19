@@ -1,6 +1,6 @@
 # ¡Hola Mundo! 👋 Soy **Daniel Cantú**  
 
-### 📱 **Desarrollador Mobile Full-Stack**  
+### 📱 **Desarrollador Mobile**  
 ### 🎓 Estudiante de Desarrollo de Software | Enfoque en soluciones móviles  
 
 ---
