@@ -1,4 +1,4 @@
-# ¡Hola Mundo! 👋 Soy **Daniel Cantú**  
+# ¡Hola Mundo! 👋 Soy **Daniel Cantu**  
 
 ### 📱 **Desarrollador Mobile**  
 ### 🎓 Estudiante de Desarrollo de Software | Enfoque en soluciones móviles  
